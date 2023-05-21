@@ -1,1 +1,3 @@
-# Pytho-Challenge
+This project performs data analysis on budget data and elections data using python. the project focuses on analyzing the data from CSV files "budget_data.csv" and "elections_data.csv".
+For the PayBank project we focus on analyzing financial data from a CSV file using the budget_data.pyand calculates the total number of months, the net total amount of profits/losses, the average change in profits/losses, and identifies the greatest increase and decrease in profits and the results will display the analysis results in the terminal and export them to a file named budget_analysis.txt.
+For the PayPoll project we focus on analyzing election data from a CSV file using the election_data.py and calculate the total number of votes, the percentage of votes each candidate won, and determines the winner based on the popular vote and the results will display the analysis results in the terminal and export them to a file named elections_analysis.txt
